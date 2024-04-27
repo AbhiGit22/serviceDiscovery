@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.scaler</groupId>
-    <artifactId>servicediscovery25apr</artifactId>
+    <artifactId>servicediscovery</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>servicediscovery25apr</name>
     <description>servicediscovery25apr</description>
